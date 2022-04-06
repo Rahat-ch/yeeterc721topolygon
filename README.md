@@ -2,7 +2,7 @@
 
 This project demonstrates an ERC721 NFT contract with unlimited minting ability on the Polygon Main network. Follow along with the Youtube video below to learn how to build this: 
 
-https://youtu.be/Vl3UutnTsu8
+https://youtu.be/3rIujuPfCA8
 
 Dependencies:
 
